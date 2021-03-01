@@ -6,3 +6,9 @@ yarn start
 
 Fonts Inter (400, 500, 600) & Rajdhani (600)
 https://fonts.google.com/specimen/Rajdhani?preview.text_type=custom&sidebar.open=true&selection.family=Inter:wght@400;500;600|Rajdhani:wght@600&query=rajd
+
+## Class 2
+
+yarn create next-app moveit-nextjs
+
+yarn add typescript @types/react @types/react-dom @types/node -D
