@@ -1,6 +1,8 @@
-# Move It 💪
+<p align="center">
+   <img src="./public/logo-full.svg" alt="Move It" width="300"/>
+</p>
 
-<p>
+<p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/filipe1309/rocketseat-moveit-nextjs?color=6E40C9&style=flat-square">
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/filipe1309/rocketseat-moveit-nextjs?color=6E40C9&style=flat-square">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/filipe1309/rocketseat-moveit-nextjs?color=6E40C9">
@@ -15,16 +17,34 @@
 
 This app was developed during Rocketseat 🚀 NLW 4.0 (Next Level Week), and aims to implement pomodore technique with exercises and gamification.
 
-> 25 minutes of full concentration + 5 minutes of some exercises
+## ⚙ How it works
+
+### Steps
+
+1. Decide on the task to be done.
+2. Set the pomodoro timer (traditionally to 25 minutes).
+3. Work on the task.
+4. End work when the timer rings and complete a health challenge.
+5. If you have fewer than four checkmarks, return to step 2; otherwise continue to step 6.
+6. After four pomodoros, complete a challenge and take a longer break (15–30 minutes), then go to step 1.
+
+<br />
+
+> tl;dr: 25 minutes of full concentration + 5 minutes of some exercises
 
 <br />
 
 ## 🀄 Layout
 
-<a href="https://www.figma.com/file/n9J6604nMGB7Cgt2vEVtWb/Move.it-1.0-Dark-Mode">
+<a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/?viewer=1&node-id=160:2761">
   <img alt="Figma" src="https://img.shields.io/badge/figma%20-%236E40C9.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 </a>
 
+<a href="https://www.figma.com/file/n9J6604nMGB7Cgt2vEVtWb/Move.it-1.0-Dark-Mode">
+  <img alt="Figma" src="https://img.shields.io/badge/figma%20Dark%20mode%20-%236E40C9.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+
+<br />
 <br />
 
 ## 💻 Technologies
