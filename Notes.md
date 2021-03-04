@@ -13,3 +13,9 @@ https://fonts.google.com/specimen/Rajdhani?preview.text_type=custom&sidebar.open
 yarn create next-app moveit-nextjs
 
 yarn add typescript @types/react @types/react-dom @types/node -D
+
+## Class 5
+
+yarn add js-cookie
+https://github.com/DefinitelyTyped/DefinitelyTyped
+yarn add @types/js-cookie -D
