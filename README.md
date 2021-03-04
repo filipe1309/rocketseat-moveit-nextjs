@@ -1,9 +1,10 @@
 # Move It 💪
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/filipe1309/rocketseat-moveit-nextjs?color=6E40C9&style=flat-square">
+<p>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/filipe1309/rocketseat-moveit-nextjs?color=6E40C9&style=flat-square">
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/filipe1309/rocketseat-moveit-nextjs?color=6E40C9&style=flat-square">
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/filipe1309/rocketseat-moveit-nextjs?color=6E40C9">
- <a href="https://github.com/filipe1309/rocketseat-moveit-nextjs/commits/master">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/filipe1309/rocketseat-moveit-nextjs?color=6E40C9">
+  <a href="https://github.com/filipe1309/rocketseat-moveit-nextjs/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/filipe1309/rocketseat-moveit-nextjs?color=6E40C9">
   </a> 
   <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/filipe1309/rocketseat-moveit-nextjs?color=6E40C9" />
