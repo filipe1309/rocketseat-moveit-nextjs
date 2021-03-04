@@ -13,6 +13,9 @@ This app was developed during NLW 4.0 (Next Level Week), and aims to implement p
 ## 💿 Installation
 
 ```sh
+# Download the project
+git clone https://github.com/filipe1309/rocketseat-moveit-nextjs
+
 # Install dependencies
 yarn
 ```
